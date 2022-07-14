@@ -1,5 +1,6 @@
 <img width="1431" alt="Screen Shot 2022-07-14 at 2 37 15 PM" src="https://user-images.githubusercontent.com/92279620/179057923-1e6a24cd-be13-4fc4-97de-ae1099d3179a.png">
 
+https://kyletchiu.github.io/StopWatch/
 
 # Simple Stop Watch With Animated CSS
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
