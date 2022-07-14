@@ -1,4 +1,4 @@
-<img width="568" alt="Screen Shot 2022-06-01 at 3 58 09 PM" src="https://user-images.githubusercontent.com/92279620/171491979-4fdea06b-e27f-44fd-bcc9-444d9cfa53bb.png">
+<img width="723" alt="Screen Shot 2022-07-14 at 2 36 00 PM" src="https://user-images.githubusercontent.com/92279620/179057622-1077bce7-944c-4976-b579-f7d1f711b3ff.png">
 
 
 # Readme Generator
